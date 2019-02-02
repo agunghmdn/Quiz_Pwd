@@ -1,4 +1,4 @@
-# vue-ica
+# vue-quiz
 
 ## Project setup
 ```
