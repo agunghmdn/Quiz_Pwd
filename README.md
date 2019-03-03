@@ -1,29 +1,16 @@
-# vue-quiz
+# Quiz PWD Vue.js
 
-## Project setup
-```
-npm install
-```
+Ada beberapa hal yang harus diperhatikan dalam pembuatan quiz ini:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 1. Instalasi Vue.js
 
-### Run your tests
-```
-npm run test
-```
+Ada dua cara untuk instalansi *vue.js* yang pertama dengan cara *Clone* dan *Download*.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 2. Koding
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pertama inisialisasi pada *array* yang berisikan data - data berupa pertanyaan dan jawaban, lalu pertanyaan ini akan diseleksi menggunakan *if* *then* *else*.
+
+## 3. Aturan Main
+
+Apabila anda berhasil menjawab maka akan menambah satu (1) pada skor.
